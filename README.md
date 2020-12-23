@@ -10,13 +10,18 @@
 
 ## What is Phi
 
-Phi = (1+sqrt(5))/2 = 1.618...
+Euclid of Alexandria was the greatest mathematician of recorded history. His book *Elements* is still used to teach geometry. He used simple language to describe the most powerful of relationships: the Golden Ratio *Phi*. 
+
+> Two segments (a anb b) are in the golden ratio if their ratio (a/b) is the same as the ratio of their sum (a+b) to the larger of the two segments (a).
+> a/b = a+b/a
+
+Numerically, **Phi** = (1+sqrt(5))/2 = 1.618... and **phi** = 1 - Phi = 0.618...
 
 ## Finding Phi
 
 ### The Bible.
 
-The Ark of the Covenant holds the two tables of stone inscribed with  the 10 commandments. The ark was lost and it's fate remains one of the biggest misteries in human history.
+The Ark of the Covenant holds the two tables of stone inscribed with the 10 commandments. The ark was lost and it's fate remains one of the biggest misteries in human history.
 
 >  Exodus 25:10. Have them make an ark of acacia wood—two and a half cubits long, a cubit and a half wide, and a cubit and a half high
 
@@ -30,7 +35,7 @@ The anti-Christ number
 
 
 golden ratio = 1.61803399  
-666 = 360 + 306  
+666 deg = 360 deg (one full turn) + 306 deg  
 sin (666) = -0.809016994  
 2 * 0.809016994 = 1.61803399  
 
