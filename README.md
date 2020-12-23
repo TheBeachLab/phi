@@ -3,6 +3,9 @@
 <!-- vim-markdown-toc GFM -->
 
 * [What is Phi](#what-is-phi)
+	* [Geometrically](#geometrically)
+	* [Numerically](#numerically)
+	* [Algebraicly](#algebraicly)
 * [Finding Phi](#finding-phi)
 	* [The Bible.](#the-bible)
 
@@ -10,12 +13,22 @@
 
 ## What is Phi
 
-Euclid of Alexandria was the greatest mathematician of recorded history. His book *Elements* is still used to teach geometry. He used simple language to describe the most powerful of relationships: the Golden Ratio *Phi*. 
+Euclid of Alexandria was the greatest mathematician of recorded history. His book *Elements* is still used to teach geometry. He used simple language to first define the most powerful of relationships: the Golden Ratio *Phi* (for Phidias, the first known to *use* it in the Parthenon). 
 
 > Two segments (a anb b) are in the golden ratio if their ratio (a/b) is the same as the ratio of their sum (a+b) to the larger of the two segments (a).
 > a/b = a+b/a
 
-Numerically, **Phi** = (1+sqrt(5))/2 = 1.618... and **phi** = 1 - Phi = 0.618...
+### Geometrically
+
+### Numerically 
+
+**Phi** = (1+sqrt(5))/2 = 1.618... and **phi** = 1 - Phi = 0.618...
+
+### Algebraicly
+
+The roots of `x**2-x-1` are Phi and -phi
+
+![x2-x-1](img/x2-x-1.png)
 
 ## Finding Phi
 
@@ -36,9 +49,9 @@ The anti-Christ number
 
 golden ratio = 1.61803399  
 666 deg = 360 deg (one full turn) + 306 deg  
-sin (666) = -0.809016994  
+sin (666) = -0.809016994 = -Phi/2 
 2 * 0.809016994 = 1.61803399  
 
-That is an isosceles triangle with base phi and sides 1.
+That is an isosceles triangle with base Phi and sides 1.
 
 ![666](img/666.png)
