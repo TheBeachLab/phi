@@ -14,7 +14,7 @@ Phi = (1+sqrt(5))/2 = 1.618...
 
 ## Finding Phi
 
-### The Bible. 
+### The Bible.
 
 The Ark of the Covenant holds the two tables of stone inscribed with  the 10 commandments. The ark was lost and it's fate remains one of the biggest misteries in human history.
 
@@ -28,5 +28,12 @@ The anti-Christ number
 
 > Revelation 13:18. This calls for wisdom. Let the person who has insight calculate the number of the beast, for it is the number of a man. That number is 666
 
+
+golden ratio = 1.61803399  
+666 = 360 + 306  
 sin (666) = -0.809016994  
-2 * 0.809016994 = 1.61803399
+2 * 0.809016994 = 1.61803399  
+
+That is an isosceles triangle with base phi and sides 1.
+
+![666](img/666.png)
