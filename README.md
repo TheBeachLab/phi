@@ -1,4 +1,4 @@
-# Phi. Rediscovering the code that unites Art, Nature and Science
+# &Phi;. Rediscovering the code that unites Art, Nature and Science
 
 <!-- vim-markdown-toc GFM -->
 
@@ -22,11 +22,12 @@ Euclid of Alexandria was the greatest mathematician of recorded history. His boo
 
 ### Numerically 
 
-**Phi** = (1+sqrt(5))/2 = 1.618... and **phi** = 1 - Phi = 0.618...
+&Phi; = **Phi** = (1+&radic;5)/2 = 1.618...  
+&phi; = **phi** = 1 - Phi = 0.618...
 
 ### Algebraicly
 
-The roots of `x**2-x-1` are Phi and -phi
+The roots of x<sup>2</sup>-x-1 are Phi and -phi
 
 ![x2-x-1](img/x2-x-1.png)
 
@@ -49,7 +50,7 @@ The anti-Christ number
 
 golden ratio = 1.61803399  
 666 deg = 360 deg (one full turn) + 306 deg  
-sin (666) = -0.809016994 = -Phi/2 
+sin (666) = -0.809016994 = -Phi/2  
 2 * 0.809016994 = 1.61803399  
 
 That is an isosceles triangle with base Phi and sides 1.
